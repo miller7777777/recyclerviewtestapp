@@ -13,4 +13,13 @@
         android:fontFamily="monospace"
         android:textSize="42sp"/>
 
+    <TextView
+        android:id="@+id/tv_view_holder_number"
+        style="@style/TextAppearance.AppCompat.Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|end"
+        android:fontFamily="monospace"
+        android:textColor="#000"/>
+
 </FrameLayout>
